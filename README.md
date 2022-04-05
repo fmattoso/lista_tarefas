@@ -3,6 +3,9 @@
 Nova versão da Lista de Tarefas
 
 - Usando path_provider 2.0.9
+- Ordenando a listView com gesto
+- Usando Dismissible para excluir itens da lista
+- Usando SnackBar para desfazer ação
 
 ## Getting Started
 
